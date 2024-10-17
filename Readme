@@ -1,3 +1,6 @@
+Pre-requisites:
+- Docker
+
 Setup:
 - run 'make build'
 - run 'make shell'
