@@ -1,0 +1,8 @@
+Setup:
+- run 'make build'
+- run 'make shell'
+- in shell run 'rake db:migrate'
+- in shell run 'ruby main.rb'
+
+What is the purpose of this repo:
+- This repo is a simple ruby application that shows how nested transactions may lead to unexpected results.
